@@ -11,7 +11,7 @@ I'm passionate about building intelligent, real-time web applications using the 
 - 🔭 Currently working on real-time AI-powered web apps and object detection systems  
 - 🌱 Learning more about **Agentic AI** and **Generative AI**  
 - 💬 Ask me about **Python, TensorFlow, FastAPI, Next.js, OpenAI APIs, MongoDB**  
-- 🎓 Pursuing B.E. in Artificial Intelligence & Machine Learning  
+- 🎓 Graduated B.E. in Artificial Intelligence & Machine Learning  
 - 📫 Reach me at: [04.abhishekabhi@gmail.com](mailto:04.abhishekabhi@gmail.com)  
 - 🔗 Connect on [LinkedIn](https://bit.ly/abhishekm)  
 
